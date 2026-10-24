@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data outputs and large generated binaries
+data/processed/*.npy
+data/synthetic/*.npy
+results/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS files
+Thumbs.db
+.DS_Store

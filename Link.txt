@@ -1,0 +1,3 @@
+GitHub: https://github.com/kevoreilly/capev2
+https://capev2.readthedocs.io/en/latest/
+https://phoenix-cipher.com/posts/cyber-lab-series/post-5/
